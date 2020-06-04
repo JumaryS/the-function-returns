@@ -15,6 +15,10 @@ function sumOfTwo(param1, param2){
 sum = param1+ param2
 }
 
+function multiply(param1, param2,param3){
+prod = param1*param2*param3
+}
+
 // greet(jumi)
 // greet(str + greeting)
 
