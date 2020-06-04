@@ -26,6 +26,13 @@ function sayHi(param){
 return 'Hello'+ ' '+ param + '!'
 }
 
+
+function divide(param1, param2){
+return param1/param2
+}
+
+
+
 // greet(jumi)
 // greet(str + greeting)
 
