@@ -20,7 +20,10 @@ prod = param1*param2*param3
 }
 
 function returnWhatISay(str){
- return str
+return str
+}
+function sayHi(param){
+return 'Hello'+ ' '+ param + '!'
 }
 
 // greet(jumi)
