@@ -19,6 +19,10 @@ function multiply(param1, param2,param3){
 prod = param1*param2*param3
 }
 
+function returnWhatISay(str){
+ return str
+}
+
 // greet(jumi)
 // greet(str + greeting)
 
