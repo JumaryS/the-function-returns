@@ -11,6 +11,9 @@ function greet( str){
 greeting = greeting + ' ' +str
 }
 
+function sumOfTwo(param1, param2){
+sum = param1+ param2
+}
 
 // greet(jumi)
 // greet(str + greeting)
